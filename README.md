@@ -1,6 +1,9 @@
 # Manga-Text-Segmentation
 Segmentation of text in manga.
 
+## Model
+The model is available in [HuggingFace](https://huggingface.co/a-b-c-x-y-z/Manga-Text-Segmentation-2025). The Model has a Unet++ architechture with an EfficientNetv2 backbone. 
+
 ## Example
 Input:
 <img width="1654" height="1170" alt="image" src="https://github.com/user-attachments/assets/251a8aa0-f3bd-4f79-953e-067f777fad0d" />
